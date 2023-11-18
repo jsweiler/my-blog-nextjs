@@ -66,7 +66,7 @@ The config is based on environment variables to make it easy to integrate with a
 Here are the variables you can edit:
 | Variable | Description | Options
 | --- | --- | --- |
-| `BLOG_NAME` | the name of your blog, displayed below the avatar ||
+| `BLOG_NAME` | the name of your blog, displayed below the avatar || ''
 | `BLOG_TITLE` | the main header (`h1`) on the home page ||
 | `BLOG_FOOTER_TEXT`| the text in the footer ||
 | `BLOG_THEME` | the theme to pass to Tailwind | default |
